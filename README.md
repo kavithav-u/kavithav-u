@@ -1,3 +1,6 @@
+![logo](https://github.com/kavithav-u/kavithav-u/blob/main/logoGit.png)
+
+
 <h1 align="center">Hi 👋, I'm Kavitha V U</h1>
 <h3 align="center">A passionate self-taught full-stack web developer specializing in MERN stack from India.</h3>
 
