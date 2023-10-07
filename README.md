@@ -18,8 +18,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/kavitha-v-u-02021998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavitha v u" height="30" width="40" /></a>
 
-
-
+<a href="https://www.instagram.com/kavithaaazz/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavithavu98" height="30" width="40" /></a>
 
 <a href="https://www.leetcode.com/
 Kavitha98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kavithavu98" height="30" width="40" /></a>
